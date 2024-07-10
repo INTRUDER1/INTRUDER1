@@ -1,6 +1,6 @@
 ## Hi Hemant Dev <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Hemant Dev a student of Bachelor of Computer Applications. and a programmer. I Spend most of time coding outstanding projects or learn new programming language or practicing out.
+I'm Hemant a student of Master in Computer Application and CyberSecurity and Cloud enthusiastic. I Spend most of time learning new technologies or practicing out.
 
 :mailbox: Reach me out!
 
@@ -8,7 +8,7 @@ I'm Hemant Dev a student of Bachelor of Computer Applications. and a programmer.
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working on **Full Stack Web Development** .
+- 🔭 I’m currently working on understanding and focusing on new technologies .
 - 📫 How to reach me: hemantdeo.ranchi@gmail.com.
 - ⚡ Fun fact: I love outdoor games and go to the GYM very often.
 

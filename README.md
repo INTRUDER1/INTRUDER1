@@ -1,4 +1,4 @@
-## Hi Hemant Dev <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Hi, <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 I'm Hemant a student of Master in Computer Application and CyberSecurity and Cloud enthusiastic. I Spend most of time learning new technologies or practicing out.
 
